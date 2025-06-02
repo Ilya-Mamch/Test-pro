@@ -6,8 +6,10 @@ class Test {
     }
 
     public static void probnik(){
-        char a = 102;
+        char a = 101;
         System.out.println(a);
+        int f=1;
+        System.out.println(f);
     }
 
     public  static void programmers(){
